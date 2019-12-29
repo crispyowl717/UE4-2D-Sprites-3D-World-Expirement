@@ -1,4 +1,4 @@
-# Heavenly Blue
+# Heavenly Blue UE4 Test
 Your favorite home invasion survivor horror detective slice-of-life waifu simulator. 
 
 This will be a COMPLETELY open-source project. This is also my first solo-dev experience where I'm responsible for all asset creation.
