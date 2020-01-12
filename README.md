@@ -1,5 +1,5 @@
 <p align="center">
-![RESPONSIBLE FILE - OVRPRTY](README/demo.gif)
+![RESPONSIBLE FILE - OVRPRTY](README/HBGameplay.gif)
 </p>
 
 # Heavenly Blue UE4 Test
