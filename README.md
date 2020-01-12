@@ -29,9 +29,7 @@ Heavenly Blue is a long term project that I've been intrested in making for a wh
 
 ## Most Recent Footage
 
-<p align="center">
-  <img src="README/HBGameplay.gif">
-</p>
+<img src="README/HBGameplay.gif">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
