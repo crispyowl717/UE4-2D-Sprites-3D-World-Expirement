@@ -1,10 +1,38 @@
+<p align="center">
+![RESPONSIBLE FILE - OVRPRTY](README/demo.gif)
+</p>
+
 # Heavenly Blue UE4 Test
-Your favorite home invasion survivor horror detective slice-of-life waifu simulator. 
 
-This will be a COMPLETELY open-source project. This is also my first solo-dev experience where I'm responsible for all asset creation.
-This was made using Unreal Engine 4.24 and almost exclusively C++. The music was created using GarageBand. The art was created using Blender3D and Photoshop.
-For the most part, although I technically made the assets, it was mostly mental gymnastics as opposed to "talent".
+Heavenly Blue is a long term project that I've been intrested in making for a while now. Since I was a young child, I've always been intrested in the Paper Mario game series. I was also a huge fan of anime, and was continously dissappointed with the representation of anime characters in video games. The core issue stems from the transition from a 2D drawing to a 3D model, and for the most part, up until very recently this problem was far from solved. Back when I realized this issue, I considered the possibility of just using a 2D sprite, but in a 3D enviroment. And so, Heavenly Blue was born! 
 
-Here's a mockup of the type of aesthetic I'm going for:
-[![Heavenly Blue Aesthetics Mockup [UE4 Paper2D]](https://i.ibb.co/qsX6DBw/https-i-ytimg-com-vi-uh-JTLh2-MM6-U-hqdefault.jpg)](https://youtu.be/uhJTLh2MM6U "Heavenly Blue Aesthetics Mockup [UE4 Paper2D]")
-Because this is just a mockup, none of the assets in the video was created by me.
+## COMPLETED FEATURES
+
+[GENERAL](Walk Animation for Player)
+[C++](Sprite Movement)
+[C++](Camera)
+[C++](Camera Rotation)
+[C++](Sprite Billbording)
+[C++](Letterboxing)
+[C++](Sprite Movement)
+[C++](Typewriter Text)
+[C++](Subtitles (NO GUI))
+[BP](Pitch Shifter) -> Songs alter pitch depending on game state. 
+
+## Usage
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
