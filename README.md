@@ -13,7 +13,7 @@ Heavenly Blue is a long term project that I've been intrested in making for a wh
 
 [C++] Camera Rotation
 
-[C++] Sprite Billbording)
+[C++] Sprite Billbording
 
 [C++] Letterboxing
 
